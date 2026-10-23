@@ -1,0 +1,13 @@
+#environmental file
+.venv/
+
+#python cache
+__pycache__/
+*.py[cod]
+
+#environmental variable
+.env
+.env.*
+
+#example configuration files
+!.env.example
